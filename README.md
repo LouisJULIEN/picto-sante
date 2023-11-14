@@ -1,27 +1,22 @@
 # PictoSante
+Picto santé s'adresse au personnel de santé ayant des difficultés à dialoguer avec leur patient, que cela vienne de la barrière de la langue ou d'une déficience auditive. 
+
+Picto santé permet de d'afficher une suite d'image à partir de mots saisis, séparé par des retours à la ligne.
+
+Picto santé est disponible ici: http://picto-sante.fr.s3-website.eu-west-3.amazonaws.com/
+
+# Inspirations
+Picto santé s'inspire de différents projets tout en proposant une approche différente.
+- Medipicto de l'APHP. http://medipicto.aphp.fr/#/
+- Marti propose un questionnaire basé sur des pictogrammes. www.marti-app.com
+
+Les pictogrammes sont tirés de https://healthicons.org/
+
+# Motivation
+Ce projet est developpé et maintenu à titre personnel et non lucratif.
+
+
+# Détails techniques
+Aucune données saisie n'est stockée sur serveur. Toutes les opérations sont effectuées côté client (=navigateur web) 
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.9.
-
-## Development server
-
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.

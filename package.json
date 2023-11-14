@@ -1,12 +1,13 @@
 {
   "name": "picto-sante",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
     "start:watch": "ng serve --watch --configuration development",
     "build": "ng build",
     "watch": "ng build --watch --configuration development",
+    "build-and-sync-S3": "npm run build && aws s3 sync dist s3://picto-sante.fr --delete",
     "test": "ng test"
   },
   "private": true,
