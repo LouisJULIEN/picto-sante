@@ -1,8 +1,6 @@
 <app-carousel [imagesPaths]="this.selectedPicturesPath"></app-carousel>
 
 <br/>
-<textarea  (input)="onUserChangedText($event)" id="text-to-display"> ojzeo fjoze
-ezfzefzef
-
-
-zefzefzef</textarea>
+<div>
+<textarea [(ngModel)]="this.userInputValue" (input)="onUserChangedText()" id="text-to-display"></textarea>
+</div>

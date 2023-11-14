@@ -27,10 +27,6 @@
     "type": "corps",
     "path": "body/body.png"
   },
-  "cerveau": {
-    "type": "corps",
-    "path": "body/brain.png"
-  },
   "adn": {
     "type": "corps",
     "path": "body/dna.png"

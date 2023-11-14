@@ -11,30 +11,38 @@ export class SearchBoxComponent implements OnInit {
 
   private pictureKeywords = Object.keys(searchClosestPicture).map(this.asciiFold)
   public selectedPicturesPath: string[]
+  public userInputValue:string = " ojzeo fjoze" +""
+    // "ezfzefzef\n" +
+    // "\n" +
+    // "\n" +
+    // "zefzefzef"
 
   constructor() {
   }
 
   ngOnInit(): void {
+    this.onUserChangedText()
   }
 
-  onUserChangedText(textChangeEvent: Event) {
-    const newText = (textChangeEvent.target as HTMLInputElement).value;
-    this.selectedPicturesPath = this.userTextToPicturePath(newText)
+  onUserChangedText() {
+    this.selectedPicturesPath = this.userTextToPicturePath()
   }
 
-  private userTextToPicturePath(userText: string) {
+  private userTextToPicturePath() {
+
     const sanitizedText = this.asciiFold(
-      userText.replace(/ +/g, " ")
-        .replace(/\n+/g, '\n')
-        .replace(/\t+/g, '\t')
+      this.userInputValue
+        .replace(/ +/g, " ") // remove duplicated spaces
+        .replace(/\n+/g, '\n') // remove duplicated carriage return
+        .replace(/\t+/g, '\t') // remove duplicated tabs
+        .replace(/$\n+/, '') // remove starting carriage return
     )
+
 
     return sanitizedText.split('\n').map((x: string) => this.searchClosestPicturePath(x))
   }
 
-
-  searchClosestPicturePath(textToSearch: string): string {
+  private searchClosestPicturePath(textToSearch: string): string {
     if (textToSearch === "") {
       return 'empty.png'
     }
