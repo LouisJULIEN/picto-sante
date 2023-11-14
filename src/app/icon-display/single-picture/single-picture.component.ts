@@ -1,4 +1,4 @@
-import { Component, OnInit } from '@angular/core';
+import {Component, Input, OnInit} from '@angular/core';
 
 @Component({
   selector: 'app-single-picture',
@@ -7,9 +7,16 @@ import { Component, OnInit } from '@angular/core';
 })
 export class SinglePictureComponent implements OnInit {
 
-  constructor() { }
+
+  @Input()
+  public imagePath: string
+  public imageFullPath: string;
+
+  constructor() {
+  }
 
   ngOnInit(): void {
+    this.imageFullPath = `assets/health-icons/filled/${this.imagePath}`
   }
 
 }

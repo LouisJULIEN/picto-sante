@@ -1,1 +1,3 @@
-<p>carousel works!</p>
+<div *ngFor="let anImagePath of this.imagesPaths">
+  <app-single-picture [imagePath]="anImagePath"></app-single-picture>
+</div>

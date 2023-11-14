@@ -10,6 +10,7 @@ import searchClosestPicture from "../../assets/health-icons/filled/metadata.json
 export class SearchBoxComponent implements OnInit {
 
   private pictureKeywords = Object.keys(searchClosestPicture).map(this.asciiFold)
+  public selectedPicturesPath: string[]
 
   constructor() {
   }
@@ -17,17 +18,21 @@ export class SearchBoxComponent implements OnInit {
   ngOnInit(): void {
   }
 
-  onUserChangedText(textChangeEvent: Event): string[] {
+  onUserChangedText(textChangeEvent: Event) {
     const newText = (textChangeEvent.target as HTMLInputElement).value;
+    this.selectedPicturesPath = this.userTextToPicturePath(newText)
+  }
 
+  private userTextToPicturePath(userText: string) {
     const sanitizedText = this.asciiFold(
-      newText.replace(/ +/g, " ")
+      userText.replace(/ +/g, " ")
         .replace(/\n+/g, '\n')
         .replace(/\t+/g, '\t')
     )
 
     return sanitizedText.split('\n').map((x: string) => this.searchClosestPicturePath(x))
   }
+
 
   searchClosestPicturePath(textToSearch: string): string {
     if (textToSearch === "") {
