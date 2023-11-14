@@ -1,138 +1,2398 @@
 {
+  "sang de type A, facteur Rh négatif": {
+    "type": "sang",
+    "path": "blood/blood_a_n.svg"
+  },
+  "sang de type A, facteur Rh positif": {
+    "type": "sang",
+    "path": "blood/blood_a_p.svg"
+  },
+  "sang de type AB, facteur Rh négatif": {
+    "type": "sang",
+    "path": "blood/blood_ab_n.svg"
+  },
+  "sang de type AB, facteur Rh positif": {
+    "type": "sang",
+    "path": "blood/blood_ab_p.svg"
+  },
+  "sang de type B, facteur Rh négatif": {
+    "type": "sang",
+    "path": "blood/blood_b_n.svg"
+  },
+  "sang de type B, facteur Rh positif": {
+    "type": "sang",
+    "path": "blood/blood_b_p.svg"
+  },
+  "sang de type O, facteur Rh négatif": {
+    "type": "sang",
+    "path": "blood/blood_o_n.svg"
+  },
+  "sang de type O, facteur Rh positif": {
+    "type": "sang",
+    "path": "blood/blood_o_p.svg"
+  },
+  "facteur Rh négatif": {
+    "type": "sang",
+    "path": "blood/blood_rh_n.svg"
+  },
+  "facteur Rh positif": {
+    "type": "sang",
+    "path": "blood/blood_rh_p.svg"
+  },
+  "poche de sang": {
+    "type": "sang",
+    "path": "blood/blood_bag.svg"
+  },
   "bras": {
-    "type": "corps",
+    "type": "membre",
     "path": "body/arm.svg"
   },
-  "bacterie": {
-    "type": "corps",
+  "bactérie": {
+    "type": "membre",
     "path": "body/bacteria.svg"
   },
   "vessie": {
-    "type": "corps",
+    "type": "membre",
     "path": "body/bladder.svg"
   },
-  "cellules sanguines": {
-    "type": "corps",
+  "globules sanguins": {
+    "type": "membre",
     "path": "body/blood_cells.svg"
   },
   "goutte de sang": {
-    "type": "corps",
+    "type": "membre",
     "path": "body/blood_drop.svg"
   },
   "vaisseau sanguin": {
-    "type": "corps",
+    "type": "membre",
     "path": "body/blood_vessel.svg"
   },
   "corps": {
-    "type": "corps",
+    "type": "membre",
     "path": "body/body.svg"
   },
-  "adn": {
-    "type": "corps",
+  "ADN": {
+    "type": "membre",
     "path": "body/dna.svg"
   },
   "oreille": {
-    "type": "corps",
+    "type": "membre",
     "path": "body/ear.svg"
   },
   "enzyme": {
-    "type": "corps",
+    "type": "membre",
     "path": "body/enzyme.svg"
   },
   "œil": {
-    "type": "corps",
+    "type": "membre",
     "path": "body/eye.svg"
   },
   "système reproducteur féminin": {
-    "type": "corps",
+    "type": "membre",
     "path": "body/female_reproductive_system.svg"
   },
   "pied": {
-    "type": "corps",
+    "type": "membre",
     "path": "body/foot.svg"
   },
   "vésicule biliaire": {
-    "type": "corps",
+    "type": "membre",
     "path": "body/gallbladder.svg"
   },
   "cœur": {
-    "type": "corps",
+    "type": "membre",
     "path": "body/heart.svg"
   },
   "intestin": {
-    "type": "corps",
+    "type": "membre",
     "path": "body/intestine.svg"
   },
   "articulations": {
-    "type": "corps",
+    "type": "membre",
     "path": "body/joints.svg"
   },
   "reins": {
-    "type": "corps",
+    "type": "membre",
     "path": "body/kidneys.svg"
   },
   "jambe": {
-    "type": "corps",
+    "type": "membre",
     "path": "body/leg.svg"
   },
+  "foie - alternative": {
+    "type": "membre",
+    "path": "body/liver-alt.svg"
+  },
   "foie": {
-    "type": "corps",
+    "type": "membre",
     "path": "body/liver.svg"
   },
-  "alanine aminotransférase": {
-   "type": "corps",
-    "path": "body/liver_alt.svg"
-  },
-  "ALT": {
-   "type": "corps",
-    "path": "body/liver_alt.svg"
-  },
   "poumons": {
-    "type": "corps",
+    "type": "membre",
     "path": "body/lungs.svg"
   },
-  "ganglion lymphatique": {
-    "type": "corps",
-    "path": "body/lymph_node.svg"
+  "ganglions lymphatiques": {
+    "type": "membre",
+    "path": "body/lymph_nodes.svg"
   },
   "bouche": {
-    "type": "corps",
+    "type": "membre",
     "path": "body/mouth.svg"
   },
   "nerf": {
-    "type": "corps",
+    "type": "membre",
     "path": "body/nerve.svg"
   },
+  "neurologie": {
+    "type": "membre",
+    "path": "body/neurology.svg"
+  },
   "nez": {
-    "type": "corps",
+    "type": "membre",
     "path": "body/nose.svg"
   },
   "pancréas": {
-    "type": "corps",
+    "type": "membre",
     "path": "body/pancreas.svg"
   },
   "squelette": {
-    "type": "corps",
+    "type": "membre",
     "path": "body/skeleton.svg"
   },
   "crâne": {
-    "type": "corps",
+    "type": "membre",
     "path": "body/skull.svg"
   },
   "colonne vertébrale": {
-    "type": "corps",
+    "type": "membre",
     "path": "body/spine.svg"
   },
   "rate": {
-    "type": "corps",
+    "type": "membre",
     "path": "body/spleen.svg"
   },
   "estomac": {
-    "type": "corps",
+    "type": "membre",
     "path": "body/stomach.svg"
   },
   "dent": {
-    "type": "corps",
+    "type": "membre",
     "path": "body/tooth.svg"
+  },
+  "allergies": {
+    "type": "état",
+    "path": "conditions/allergies.svg"
+  },
+  "frissons": {
+    "type": "état",
+    "path": "conditions/chills.svg"
+  },
+  "sourd": {
+    "type": "état",
+    "path": "conditions/deaf.svg"
+  },
+  "diarrhée": {
+    "type": "état",
+    "path": "conditions/diarrhea.svg"
+  },
+  "mal de tête": {
+    "type": "état",
+    "path": "conditions/headache.svg"
+  },
+  "VPH": {
+    "type": "état",
+    "path": "conditions/hpv.svg"
+  },
+  "douleur dorsale": {
+    "type": "état",
+    "path": "conditions/back_pain.svg"
+  },
+  "cancer du col de l'utérus": {
+    "type": "état",
+    "path": "conditions/cervical_cancer.svg"
+  },
+  "frissons et fièvre": {
+    "type": "état",
+    "path": "conditions/chills_fever.svg"
+  },
+  "toux - alternative": {
+    "type": "état",
+    "path": "conditions/coughing_alt.svg"
+  },
+  "VIH - indéterminé": {
+    "type": "état",
+    "path": "conditions/hiv_ind.svg"
+  },
+  "VIH - négatif": {
+    "type": "état",
+    "path": "conditions/hiv_neg.svg"
+  },
+  "VIH - positif": {
+    "type": "état",
+    "path": "conditions/hiv_pos.svg"
+  },
+  "douleur intestinale": {
+    "type": "état",
+    "path": "conditions/intestinal-pain.svg"
+  },
+  "perte d'odorat": {
+    "type": "état",
+    "path": "conditions/loss-smell.svg"
+  },
+  "basse vision": {
+    "type": "état",
+    "path": "conditions/low_vision.svg"
+  },
+  "varice": {
+    "type": "état",
+    "path": "conditions/varicose_vein.svg"
+  },
+  "infection virale des poumons": {
+    "type": "état",
+    "path": "conditions/viral_lung_infection.svg"
+  },
+  "nausées": {
+    "type": "état",
+    "path": "conditions/nausea.svg"
+  },
+  "surpoids": {
+    "type": "état",
+    "path": "conditions/overweight.svg"
+  },
+  "pneumonie": {
+    "type": "état",
+    "path": "conditions/pneumonia.svg"
+  },
+  "ruban": {
+    "type": "état",
+    "path": "conditions/ribbon.svg"
+  },
+  "IST": {
+    "type": "état",
+    "path": "conditions/sti.svg"
+  },
+  "transpiration": {
+    "type": "état",
+    "path": "conditions/sweating.svg"
+  },
+  "tuberculose": {
+    "type": "état",
+    "path": "conditions/tb.svg"
+  },
+  "insuffisance pondérale": {
+    "type": "état",
+    "path": "conditions/underweight.svg"
+  },
+  "VIH": {
+    "type": "état",
+    "path": "conditions/vih.svg"
+  },
+  "vomissements": {
+    "type": "état",
+    "path": "conditions/vomiting.svg"
+  },
+  "plâtre": {
+    "type": "appareils",
+    "path": "devices/cast.svg"
+  },
+  "défibrillateur": {
+    "type": "appareils",
+    "path": "devices/defibrillator.svg"
+  },
+  "lunettes": {
+    "type": "appareils",
+    "path": "devices/eyeglasses.svg"
+  },
+  "fièvre": {
+    "type": "appareils",
+    "path": "devices/fever.svg"
+  },
+  "hospitalisé": {
+    "type": "appareils",
+    "path": "devices/hospitalized.svg"
+  },
+  "patient hospitalisé": {
+    "type": "appareils",
+    "path": "devices/inpatient.svg"
+  },
+  "LLIN - moustiquaire imprégnée d'insecticide à longue durée": {
+    "type": "appareils",
+    "path": "devices/llin.svg"
+  },
+  "microscope": {
+    "type": "appareils",
+    "path": "devices/microscope.svg"
+  },
+  "mobile": {
+    "type": "appareils",
+    "path": "devices/mobile.svg"
+  },
+  "observation": {
+    "type": "appareils",
+    "path": "devices/observation.svg"
+  },
+  "odontologie": {
+    "type": "appareils",
+    "path": "devices/odontology.svg"
+  },
+  "respirateur": {
+    "type": "appareils",
+    "path": "devices/respirator.svg"
+  },
+  "bandage d'épaule": {
+    "type": "appareils",
+    "path": "devices/sling.svg"
+  },
+  "stéthoscope": {
+    "type": "appareils",
+    "path": "devices/stethoscope.svg"
+  },
+  "pression sanguine": {
+    "type": "appareils",
+    "path": "devices/blood_pressure.svg"
+  },
+  "pression sanguine 2": {
+    "type": "appareils",
+    "path": "devices/blood_pressure_2.svg"
+  },
+  "monitor de pression sanguine": {
+    "type": "appareils",
+    "path": "devices/blood_pressure_monitor.svg"
+  },
+  "clinique A": {
+    "type": "appareils",
+    "path": "devices/clinical_a.svg"
+  },
+  "chaîne du froid": {
+    "type": "appareils",
+    "path": "devices/cold_chain.svg"
+  },
+  "lentilles de contact": {
+    "type": "appareils",
+    "path": "devices/contact_lenses.svg"
+  },
+  "hygiène dentaire": {
+    "type": "appareils",
+    "path": "devices/dental_hygiene.svg"
+  },
+  "dosages biochimiques à concentration discriminante": {
+    "type": "appareils",
+    "path": "devices/discriminating_concentration_bioassays.svg"
+  },
+  "lingettes désinfectantes": {
+    "type": "appareils",
+    "path": "devices/disinfecting_wipes.svg"
+  },
+  "vélo d'exercice": {
+    "type": "appareils",
+    "path": "devices/exercise_bicycle.svg"
+  },
+  "poche intraveineuse": {
+    "type": "appareils",
+    "path": "devices/intravenous_bag.svg"
+  },
+  "implant odontologique": {
+    "type": "appareils",
+    "path": "devices/odontology_implant.svg"
+  },
+  "réservoir d'oxygène": {
+    "type": "appareils",
+    "path": "devices/oxygen_tank.svg"
+  },
+  "bracelet du patient": {
+    "type": "appareils",
+    "path": "devices/patient_band.svg"
+  },
+  "bracelet du patient - alternative": {
+    "type": "appareils",
+    "path": "devices/patient_band_alt.svg"
+  },
+  "écran facial - alternative": {
+    "type": "appareils",
+    "path": "devices/ppe-face-shield-alt.svg"
+  },
+  "masque de protection individuelle": {
+    "type": "appareils",
+    "path": "devices/ppe-mask.svg"
+  },
+  "tablier de protection individuelle": {
+    "type": "appareils",
+    "path": "devices/ppe_apron.svg"
+  },
+  "masque facial de protection individuelle": {
+    "type": "appareils",
+    "path": "devices/ppe_face_mask.svg"
+  },
+  "écran facial de protection individuelle": {
+    "type": "appareils",
+    "path": "devices/ppe_face_shield.svg"
+  },
+  "gants de protection individuelle": {
+    "type": "appareils",
+    "path": "devices/ppe_gloves.svg"
+  },
+  "lunettes de protection individuelle": {
+    "type": "appareils",
+    "path": "devices/ppe_goggles.svg"
+  },
+  "blouse de protection individuelle": {
+    "type": "appareils",
+    "path": "devices/ppe_gown.svg"
+  },
+  "masque N95 de protection individuelle": {
+    "type": "appareils",
+    "path": "devices/ppe_mask_n95.svg"
+  },
+  "désinfectant de protection individuelle": {
+    "type": "appareils",
+    "path": "devices/ppe_sanitizer.svg"
+  },
+  "désinfectant de protection individuelle - alternative": {
+    "type": "appareils",
+    "path": "devices/ppe_santizer_alt.svg"
+  },
+  "combi de protection individuelle": {
+    "type": "appareils",
+    "path": "devices/ppe_suit.svg"
+  },
+  "stérilisation chirurgicale": {
+    "type": "appareils",
+    "path": "devices/surgical_sterilization.svg"
+  },
+  "seringue - vaccin": {
+    "type": "appareils",
+    "path": "devices/syringe-vaccine.svg"
+  },
+  "seringue": {
+    "type": "appareils",
+    "path": "devices/syringe.svg"
+  },
+  "TAC - tomodensitométrie": {
+    "type": "appareils",
+    "path": "devices/tac.svg"
+  },
+  "thermomètre": {
+    "type": "appareils",
+    "path": "devices/thermometer.svg"
+  },
+  "thermomètre numérique": {
+    "type": "appareils",
+    "path": "devices/thermometer_digital.svg"
+  },
+  "eau traitée": {
+    "type": "appareils",
+    "path": "devices/treated_water.svg"
+  },
+  "ventilateur": {
+    "type": "appareils",
+    "path": "devices/ventilator.svg"
+  },
+  "ventilateur - alternative": {
+    "type": "appareils",
+    "path": "devices/ventilator_alt.svg"
+  },
+  "spray désinfectant antiviral": {
+    "type": "appareils",
+    "path": "devices/virus-sanitizer-spray.svg"
+  },
+  "seringue de recherche en laboratoire sur les virus": {
+    "type": "appareils",
+    "path": "devices/virus_lab_research_syringe.svg"
+  },
+  "tube d'essai de recherche en laboratoire sur les virus": {
+    "type": "appareils",
+    "path": "devices/virus_lab_research_test_tube.svg"
+  },
+  "poids": {
+    "type": "appareils",
+    "path": "devices/weight.svg"
+  },
+  "fauteuil roulant": {
+    "type": "appareils",
+    "path": "devices/wheelchair.svg"
+  },
+  "fauteuil roulant - alternative": {
+    "type": "appareils",
+    "path": "devices/wheelchair_alt.svg"
+  },
+  "radiographie": {
+    "type": "appareils",
+    "path": "devices/xray.svg"
+  },
+  "test du cône sur les filets": {
+    "type": "diagnostics",
+    "path": "diagnostics/cone_test_on_nets.svg"
+  },
+  "test du cône sur les murs": {
+    "type": "diagnostics",
+    "path": "diagnostics/cone_test_on_walls.svg"
+  },
+  "auto-test VIH": {
+    "type": "diagnostics",
+    "path": "diagnostics/hiv_self_test.svg"
+  },
+  "dosages biochimiques à concentration intense": {
+    "type": "diagnostics",
+    "path": "diagnostics/intensity_concentration_bioassays.svg"
+  },
+  "microscope du paludisme": {
+    "type": "diagnostics",
+    "path": "diagnostics/malaria_microscope.svg"
+  },
+  "microscope mixte du paludisme": {
+    "type": "diagnostics",
+    "path": "diagnostics/malaria_mixed_microscope.svg"
+  },
+  "microscope du paludisme - Plasmodium falciparum": {
+    "type": "diagnostics",
+    "path": "diagnostics/malaria_pf_microscope.svg"
+  },
+  "microscope du paludisme - Plasmodium vivax": {
+    "type": "diagnostics",
+    "path": "diagnostics/malaria_pv_microscope.svg"
+  },
+  "test du paludisme": {
+    "type": "diagnostics",
+    "path": "diagnostics/malaria_testing.svg"
+  },
+  "collecte de moustiques": {
+    "type": "diagnostics",
+    "path": "diagnostics/mosquito_collection.svg"
+  },
+  "résultat du test de diagnostic rapide": {
+    "type": "diagnostics",
+    "path": "diagnostics/rdt_result.svg"
+  },
+  "résultat du test de diagnostic rapide - invalide": {
+    "type": "diagnostics",
+    "path": "diagnostics/rdt_result_invalid.svg"
+  },
+  "résultat du test de diagnostic rapide - mixte": {
+    "type": "diagnostics",
+    "path": "diagnostics/rdt_result_mixed.svg"
+  },
+  "résultat du test de diagnostic rapide - mixte invalide": {
+    "type": "diagnostics",
+    "path": "diagnostics/rdt_result_mixed_invalid.svg"
+  },
+  "résultat du test de diagnostic rapide - mixte invalide rectangulaire": {
+    "type": "diagnostics",
+    "path": "diagnostics/rdt_result_mixed_invalid_rectangular.svg"
+  },
+  "résultat du test de diagnostic rapide - mixte rectangulaire": {
+    "type": "diagnostics",
+    "path": "diagnostics/rdt_result_mixed_rectangular.svg"
+  },
+  "résultat du test de diagnostic rapide - négatif": {
+    "type": "diagnostics",
+    "path": "diagnostics/rdt_result_neg.svg"
+  },
+  "résultat du test de diagnostic rapide - négatif invalide": {
+    "type": "diagnostics",
+    "path": "diagnostics/rdt_result_neg_invalid.svg"
+  },
+  "résultat du test de diagnostic rapide - négatif invalide rectangulaire": {
+    "type": "diagnostics",
+    "path": "diagnostics/rdt_result_neg_invalid_rectangular.svg"
+  },
+  "résultat du test de diagnostic rapide - négatif rectangulaire": {
+    "type": "diagnostics",
+    "path": "diagnostics/rdt_result_neg_rectangular.svg"
+  },
+  "pas de test de diagnostic rapide effectué": {
+    "type": "diagnostics",
+    "path": "diagnostics/rdt_result_no_test.svg"
+  },
+  "résultat du test de diagnostic rapide - Plasmodium falciparum": {
+    "type": "diagnostics",
+    "path": "diagnostics/rdt_result_pf.svg"
+  },
+  "résultat du test de diagnostic rapide - Plasmodium falciparum invalide": {
+    "type": "diagnostics",
+    "path": "diagnostics/rdt_result_pf_invalid.svg"
+  },
+  "résultat du test de diagnostic rapide - Plasmodium falciparum invalide rectangulaire": {
+    "type": "diagnostics",
+    "path": "diagnostics/rdt_result_pf_invalid_rectangular.svg"
+  },
+  "résultat du test de diagnostic rapide - Plasmodium falciparum rectangulaire": {
+    "type": "diagnostics",
+    "path": "diagnostics/rdt_result_pf_rectangular.svg"
+  },
+  "résultat du test de diagnostic rapide - positif": {
+    "type": "diagnostics",
+    "path": "diagnostics/rdt_result_positive.svg"
+  },
+  "résultat du test de diagnostic rapide - Plasmodium vivax": {
+    "type": "diagnostics",
+    "path": "diagnostics/rdt_result_pv.svg"
+  },
+  "résultat du test de diagnostic rapide - Plasmodium vivax invalide": {
+    "type": "diagnostics",
+    "path": "diagnostics/rdt_result_pv_invalid.svg"
+  },
+  "résultat du test de diagnostic rapide - Plasmodium vivax invalide rectangulaire": {
+    "type": "diagnostics",
+    "path": "diagnostics/rdt_result_pv_invalid_rectangular.svg"
+  },
+  "résultat du test de diagnostic rapide - Plasmodium vivax rectangulaire": {
+    "type": "diagnostics",
+    "path": "diagnostics/rdt_result_pv_rectangular.svg"
+  },
+  "dosages biochimiques de l'insecticide synergiste": {
+    "type": "diagnostics",
+    "path": "diagnostics/synergist_insecticide_bioassays.svg"
+  },
+  "en colère": {
+    "type": "émotions",
+    "path": "emotions/angry.svg"
+  },
+  "bandé": {
+    "type": "émotions",
+    "path": "emotions/bandaged.svg"
+  },
+  "calme": {
+    "type": "émotions",
+    "path": "emotions/calm.svg"
+  },
+  "confus": {
+    "type": "émotions",
+    "path": "emotions/confused.svg"
+  },
+  "toux": {
+    "type": "émotions",
+    "path": "emotions/coughing.svg"
+  },
+  "pleurs": {
+    "type": "émotions",
+    "path": "emotions/crying.svg"
+  },
+  "étourdi": {
+    "type": "émotions",
+    "path": "emotions/dizzy.svg"
+  },
+  "expectorer": {
+    "type": "émotions",
+    "path": "emotions/expectorate.svg"
+  },
+  "lunettes": {
+    "type": "émotions",
+    "path": "emotions/eyeglasses.svg"
+  },
+  "fièvre": {
+    "type": "émotions",
+    "path": "emotions/fever.svg"
+  },
+  "heureux": {
+    "type": "émotions",
+    "path": "emotions/happy.svg"
+  },
+  "pleurs bruyants": {
+    "type": "émotions",
+    "path": "emotions/loudly_crying.svg"
+  },
+  "masqué": {
+    "type": "émotions",
+    "path": "emotions/masked.svg"
+  },
+  "rougeole": {
+    "type": "émotions",
+    "path": "emotions/measles.svg"
+  },
+  "nauséeux": {
+    "type": "émotions",
+    "path": "emotions/nauseous.svg"
+  },
+  "nerveux": {
+    "type": "émotions",
+    "path": "emotions/nervous.svg"
+  },
+  "neutre": {
+    "type": "émotions",
+    "path": "emotions/neutral.svg"
+  },
+  "pas bien": {
+    "type": "émotions",
+    "path": "emotions/not_ok.svg"
+  },
+  "bien": {
+    "type": "émotions",
+    "path": "emotions/ok.svg"
+  },
+  "triste": {
+    "type": "émotions",
+    "path": "emotions/sad.svg"
+  },
+  "endormi": {
+    "type": "émotions",
+    "path": "emotions/sleepy.svg"
+  },
+  "transpiration": {
+    "type": "émotions",
+    "path": "emotions/sweating.svg"
+  },
+  "langue": {
+    "type": "émotions",
+    "path": "emotions/tongue.svg"
+  },
+  "vomissement": {
+    "type": "émotions",
+    "path": "emotions/vomiting.svg"
+  },
+  "étourdi": {
+    "type": "émotions",
+    "path": "emotions/woozy.svg"
+  },
+  "diaphragme contraceptif": {
+    "type": "famille",
+    "path": "family/contraceptive_diaphragm.svg"
+  },
+  "injection contraceptive": {
+    "type": "famille",
+    "path": "family/contraceptive_injection.svg"
+  },
+  "patch contraceptif": {
+    "type": "famille",
+    "path": "family/contraceptive_patch.svg"
+  },
+  "bon contraceptif": {
+    "type": "famille",
+    "path": "family/contraceptive_voucher.svg"
+  },
+  "DIU en cuivre": {
+    "type": "famille",
+    "path": "family/copper_iud.svg"
+  },
+  "planification familiale": {
+    "type": "famille",
+    "path": "family/family_planning.svg"
+  },
+  "préservatif féminin": {
+    "type": "famille",
+    "path": "family/female_condom.svg"
+  },
+  "anneau hormonal": {
+    "type": "famille",
+    "path": "family/hormonal_ring.svg"
+  },
+  "implant contraceptif": {
+    "type": "famille",
+    "path": "family/implant.svg"
+  },
+  "DIU": {
+    "type": "famille",
+    "path": "family/iud.svg"
+  },
+  "préservatif masculin": {
+    "type": "famille",
+    "path": "family/male_condom.svg"
+  },
+  "pilules contraceptives orales x21": {
+    "type": "famille",
+    "path": "family/oral_contraception_pillsx21.svg"
+  },
+  "pilules contraceptives orales x28": {
+    "type": "famille",
+    "path": "family/oral_contraception_pillsx28.svg"
+  },
+  "Sayana Press - contraceptif injectable": {
+    "type": "famille",
+    "path": "family/sayana_press.svg"
+  },
+  "sperme": {
+    "type": "famille",
+    "path": "family/sperm.svg"
+  },
+  "blister de pilules ovales x1": {
+    "type": "médication",
+    "path": "medications/blister_pills_oval_x1.svg"
+  },
+  "blister de pilules ovales x14": {
+    "type": "médication",
+    "path": "medications/blister_pills_oval_x14.svg"
+  },
+  "blister de pilules ovales x16": {
+    "type": "médication",
+    "path": "medications/blister_pills_oval_x16.svg"
+  },
+  "blister de pilules ovales x4": {
+    "type": "médication",
+    "path": "medications/blister_pills_oval_x4.svg"
+  },
+  "blister de pilules rondes x1": {
+    "type": "médication",
+    "path": "medications/blister_pills_round_x1.svg"
+  },
+  "blister de pilules rondes x14": {
+    "type": "médication",
+    "path": "medications/blister_pills_round_x14.svg"
+  },
+  "blister de pilules rondes x16": {
+    "type": "médication",
+    "path": "medications/blister_pills_round_x16.svg"
+  },
+  "blister de pilules rondes x4": {
+    "type": "médication",
+    "path": "medications/blister_pills_round_x4.svg"
+  },
+  "médicaments": {
+    "type": "médication",
+    "path": "medications/medicines.svg"
+  },
+  "pilule 1": {
+    "type": "médication",
+    "path": "medications/pill_1.svg"
+  },
+  "pilules 2": {
+    "type": "médication",
+    "path": "medications/pills_2.svg"
+  },
+  "pilules 3": {
+    "type": "médication",
+    "path": "medications/pills_3.svg"
+  },
+  "pilules 4": {
+    "type": "médication",
+    "path": "medications/pills_4.svg"
+  },
+  "pansement adhésif": {
+    "type": "objets",
+    "path": "objects/bandage_adhesive.svg"
+  },
+  "factures": {
+    "type": "objets",
+    "path": "objects/bills.svg"
+  },
+  "nettoyage": {
+    "type": "objets",
+    "path": "objects/cleaning.svg"
+  },
+  "pièces de monnaie": {
+    "type": "objets",
+    "path": "objects/coins.svg"
+  },
+  "construction": {
+    "type": "objets",
+    "path": "objects/construction.svg"
+  },
+  "carte de crédit": {
+    "type": "objets",
+    "path": "objects/credit_card.svg"
+  },
+  "application de bureau": {
+    "type": "objets",
+    "path": "objects/desktop_app.svg"
+  },
+  "repas chaud": {
+    "type": "objets",
+    "path": "objects/hot_meal.svg"
+  },
+  "ustensiles": {
+    "type": "objets",
+    "path": "objects/i_utensils.svg"
+  },
+  "justice": {
+    "type": "objets",
+    "path": "objects/justice.svg"
+  },
+  "sac d'argent": {
+    "type": "objets",
+    "path": "objects/money_bag.svg"
+  },
+  "téléphone": {
+    "type": "objets",
+    "path": "objects/phone.svg"
+  },
+  "résultat du test de diagnostic rapide - en rupture de stock": {
+    "type": "objets",
+    "path": "objects/rdt_result_out_stock.svg"
+  },
+  "eau courante": {
+    "type": "objets",
+    "path": "objects/running_water.svg"
+  },
+  "tableurs": {
+    "type": "objets",
+    "path": "objects/spreadsheets.svg"
+  },
+  "rupture de stock": {
+    "type": "objets",
+    "path": "objects/stock_out.svg"
+  },
+  "parapluie": {
+    "type": "objets",
+    "path": "objects/umbrella.svg"
+  },
+  "nourriture malsaine": {
+    "type": "objets",
+    "path": "objects/unhealthy_food.svg"
+  },
+  "agriculture": {
+    "type": "individu",
+    "path": "people/agriculture.svg"
+  },
+  "travailleur agricole": {
+    "type": "individu",
+    "path": "people/agriculture_worker.svg"
+  },
+  "travailleur agricole alternatif": {
+    "type": "individu",
+    "path": "people/agriculture_worker_alt.svg"
+  },
+  "ancv": {
+    "type": "individu",
+    "path": "people/ancv.svg"
+  },
+  "asthme": {
+    "type": "individu",
+    "path": "people/asthma.svg"
+  },
+  "bébé 02-03 ans alternatif": {
+    "type": "individu",
+    "path": "people/baby_0203_alt.svg"
+  },
+  "bébé 02-03 mois": {
+    "type": "individu",
+    "path": "people/baby_0203m.svg"
+  },
+  "bébé 03-06 mois": {
+    "type": "individu",
+    "path": "people/baby_0306m.svg"
+  },
+  "bébé fille 02-03 mois": {
+    "type": "individu",
+    "path": "people/baby_female_0203m.svg"
+  },
+  "bébé fille 02-03 mois alternatif": {
+    "type": "individu",
+    "path": "people/baby_female_0203m_alt.svg"
+  },
+  "bébé fille 03-06 mois": {
+    "type": "individu",
+    "path": "people/baby_female_0306m.svg"
+  },
+  "bébé fille 06-09 mois": {
+    "type": "individu",
+    "path": "people/baby_female_0609m.svg"
+  },
+  "bébé garçon 02-03 mois": {
+    "type": "individu",
+    "path": "people/baby_male_0203m.svg"
+  },
+  "bébé garçon 02-03 mois alternatif": {
+    "type": "individu",
+    "path": "people/baby_male_0203m_alt.svg"
+  },
+  "bébé garçon 03-06 mois": {
+    "type": "individu",
+    "path": "people/baby_male_0306m.svg"
+  },
+  "bébé garçon 06-09 mois": {
+    "type": "individu",
+    "path": "people/baby_male_0609m.svg"
+  },
+  "garçon 01-05 ans": {
+    "type": "individu",
+    "path": "people/boy_0105y.svg"
+  },
+  "garçon 10-15 ans": {
+    "type": "individu",
+    "path": "people/boy_1015y.svg"
+  },
+  "centre d'appels": {
+    "type": "individu",
+    "path": "people/call_centre.svg"
+  },
+  "garde d'enfants": {
+    "type": "individu",
+    "path": "people/child_care.svg"
+  },
+  "cognition de l'enfant": {
+    "type": "individu",
+    "path": "people/child_cognition.svg"
+  },
+  "programme pour enfants": {
+    "type": "individu",
+    "path": "people/child_program.svg"
+  },
+  "travailleur urbain": {
+    "type": "individu",
+    "path": "people/city_worker.svg"
+  },
+  "mains propres": {
+    "type": "individu",
+    "path": "people/clean_hands.svg"
+  },
+  "travailleur de santé communautaire": {
+    "type": "individu",
+    "path": "people/community_healthworker.svg"
+  },
+  "ouvrier du bâtiment": {
+    "type": "individu",
+    "path": "people/construction_worker.svg"
+  },
+  "diabète": {
+    "type": "individu",
+    "path": "people/diabetes.svg"
+  },
+  "médecin": {
+    "type": "individu",
+    "path": "people/doctor.svg"
+  },
+  "médecin femme": {
+    "type": "individu",
+    "path": "people/doctor_female.svg"
+  },
+  "médecin homme": {
+    "type": "individu",
+    "path": "people/doctor_male.svg"
+  },
+  "travailleur domestique": {
+    "type": "individu",
+    "path": "people/domestic_worker.svg"
+  },
+  "travailleur domestique alternatif": {
+    "type": "individu",
+    "path": "people/domestic_worker_alt.svg"
+  },
+  "personne âgée": {
+    "type": "individu",
+    "path": "people/elderly.svg"
+  },
+  "exercice de course": {
+    "type": "individu",
+    "path": "people/exercise_running.svg"
+  },
+  "exercice de marche avec support": {
+    "type": "individu",
+    "path": "people/exercise_walk_supported.svg"
+  },
+  "exercice de marche": {
+    "type": "individu",
+    "path": "people/exercise_walking.svg"
+  },
+  "exercice avec des poids": {
+    "type": "individu",
+    "path": "people/exercise_weights.svg"
+  },
+  "ouvrier d'usine": {
+    "type": "individu",
+    "path": "people/factory_worker.svg"
+  },
+  "femme et homme": {
+    "type": "individu",
+    "path": "people/female_and_male.svg"
+  },
+  "travailleur du sexe féminin": {
+    "type": "individu",
+    "path": "people/female_sex_worker.svg"
+  },
+  "fœtus": {
+    "type": "individu",
+    "path": "people/fetus.svg"
+  },
+  "forum": {
+    "type": "individu",
+    "path": "people/forum.svg"
+  },
+  "fille 01-05 ans": {
+    "type": "individu",
+    "path": "people/girl_0105y.svg"
+  },
+  "fille 10-15 ans": {
+    "type": "individu",
+    "path": "people/girl_1015y.svg"
+  },
+  "réunion de discussion en groupe": {
+    "type": "individu",
+    "path": "people/group_discussion_meeting.svg"
+  },
+  "réunion de discussion en groupe x3": {
+    "type": "individu",
+    "path": "people/group_discussion_meetingx3.svg"
+  },
+  "travailleur de la santé": {
+    "type": "individu",
+    "path": "people/health_worker.svg"
+  },
+  "perspective de groupe - foule": {
+    "type": "individu",
+    "path": "people/i_groups_perspective_crowd.svg"
+  },
+  "classe de formation": {
+    "type": "individu",
+    "path": "people/i_training_class.svg"
+  },
+  "allaitement": {
+    "type": "individu",
+    "path": "people/lactation.svg"
+  },
+  "homme et femme": {
+    "type": "individu",
+    "path": "people/male_and_female.svg"
+  },
+  "travailleur du sexe masculin": {
+    "type": "individu",
+    "path": "people/male_sex_worker.svg"
+  },
+  "homme": {
+    "type": "individu",
+    "path": "people/man.svg"
+  },
+  "troubles mentaux": {
+    "type": "individu",
+    "path": "people/mental_disorders.svg"
+  },
+  "travailleur militaire": {
+    "type": "individu",
+    "path": "people/military_worker.svg"
+  },
+  "ouvrier minier": {
+    "type": "individu",
+    "path": "people/miner_worker.svg"
+  },
+  "ouvrier minier alternatif": {
+    "type": "individu",
+    "path": "people/miner_worker_alt.svg"
+  },
+  "sexe entre hommes": {
+    "type": "individu",
+    "path": "people/msm.svg"
+  },
+  "neurochirurgie": {
+    "type": "individu",
+    "path": "people/neuro_surgery.svg"
+  },
+  "infirmier/infirmière": {
+    "type": "individu",
+    "path": "people/nurse.svg"
+  },
+  "officier": {
+    "type": "individu",
+    "path": "people/officer.svg"
+  },
+  "vieil homme": {
+    "type": "individu",
+    "path": "people/old_man.svg"
+  },
+  "vieille femme": {
+    "type": "individu",
+    "path": "people/old_woman.svg"
+  },
+  "patient externe": {
+    "type": "individu",
+    "path": "people/outpatient.svg"
+  },
+  "chirurgie pédiatrique": {
+    "type": "individu",
+    "path": "people/pediatric_surgery.svg"
+  },
+  "gens": {
+    "type": "individu",
+    "path": "people/people.svg"
+  },
+  "personne": {
+    "type": "individu",
+    "path": "people/person.svg"
+  },
+  "ouvrier de plantation": {
+    "type": "individu",
+    "path": "people/plantation_worker.svg"
+  },
+  "ouvrier de plantation alternatif": {
+    "type": "individu",
+    "path": "people/plantation_worker_alt.svg"
+  },
+  "enceinte": {
+    "type": "individu",
+    "path": "people/pregnant.svg"
+  },
+  "enceinte 08-12 semaines": {
+    "type": "individu",
+    "path": "people/pregnant_0812w.svg"
+  },
+  "enceinte 24-26 semaines": {
+    "type": "individu",
+    "path": "people/pregnant_2426w.svg"
+  },
+  "enceinte 32 semaines": {
+    "type": "individu",
+    "path": "people/pregnant_32w.svg"
+  },
+  "enceinte 36-38 semaines": {
+    "type": "individu",
+    "path": "people/pregnant_3638w.svg"
+  },
+  "prisonnier": {
+    "type": "individu",
+    "path": "people/prisoner.svg"
+  },
+  "PWID - Person Who Injects Drugs": {
+    "type": "individu",
+    "path": "people/pwid.svg"
+  },
+  "refusé": {
+    "type": "individu",
+    "path": "people/refused.svg"
+  },
+  "RMNH - Reproductive, Maternal, Newborn, and Child Health": {
+    "type": "individu",
+    "path": "people/rmnh.svg"
+  },
+  "travailleur de la sécurité": {
+    "type": "individu",
+    "path": "people/security_worker.svg"
+  },
+  "orthophonie": {
+    "type": "individu",
+    "path": "people/speech_language_therapy.svg"
+  },
+  "pulvérisation": {
+    "type": "individu",
+    "path": "people/spraying.svg"
+  },
+  "symptôme": {
+    "type": "individu",
+    "path": "people/symptom.svg"
+  },
+  "traumatisme": {
+    "type": "individu",
+    "path": "people/traumatism.svg"
+  },
+  "voyage": {
+    "type": "individu",
+    "path": "people/travel.svg"
+  },
+  "voyage alternatif": {
+    "type": "individu",
+    "path": "people/travel_alt.svg"
+  },
+  "chauffeur de camion": {
+    "type": "individu",
+    "path": "people/truck_driver.svg"
+  },
+  "laver les mains": {
+    "type": "individu",
+    "path": "people/wash_hands.svg"
+  },
+  "eau et assainissement": {
+    "type": "individu",
+    "path": "people/water_sanitation.svg"
+  },
+  "soin mondial": {
+    "type": "individu",
+    "path": "people/wold_care.svg"
+  },
+  "femme": {
+    "type": "individu",
+    "path": "people/woman.svg"
+  },
+  "soin mondial": {
+    "type": "individu",
+    "path": "people/world_care.svg"
+  },
+  "jeunes": {
+    "type": "individu",
+    "path": "people/young_people.svg"
+  },
+  "clinique ambulatoire": {
+    "type": "lieux",
+    "path": "places/ambulatory_clinic.svg"
+  },
+  "église": {
+    "type": "lieux",
+    "path": "places/church.svg"
+  },
+  "ville": {
+    "type": "lieux",
+    "path": "places/city.svg"
+  },
+  "poste de secours d'urgence": {
+    "type": "lieux",
+    "path": "places/emergency_post.svg"
+  },
+  "forêt": {
+    "type": "lieux",
+    "path": "places/forest.svg"
+  },
+  "personnes en forêt": {
+    "type": "lieux",
+    "path": "places/forest_persons.svg"
+  },
+  "maison": {
+    "type": "lieux",
+    "path": "places/home.svg"
+  },
+  "maison alternative": {
+    "type": "lieux",
+    "path": "places/home_alt.svg"
+  },
+  "hôpital": {
+    "type": "lieux",
+    "path": "places/hospital.svg"
+  },
+  "latrine": {
+    "type": "lieux",
+    "path": "places/letrina.svg"
+  },
+  "latrine alternative": {
+    "type": "lieux",
+    "path": "places/letrina_alt.svg"
+  },
+  "étal de marché": {
+    "type": "lieux",
+    "path": "places/market_stall.svg"
+  },
+  "ministère de la Santé": {
+    "type": "lieux",
+    "path": "places/ministry_of_health.svg"
+  },
+  "mosquée": {
+    "type": "lieux",
+    "path": "places/mosque.svg"
+  },
+  "toit en branches de palmier": {
+    "type": "lieux",
+    "path": "places/palm_branches_roof.svg"
+  },
+  "toit approprié": {
+    "type": "lieux",
+    "path": "places/proper_roof.svg"
+  },
+  "poste rural": {
+    "type": "lieux",
+    "path": "places/rural_post.svg"
+  },
+  "poste rural alternatif": {
+    "type": "lieux",
+    "path": "places/rural_post_alt.svg"
+  },
+  "temple": {
+    "type": "lieux",
+    "path": "places/temple.svg"
+  },
+  "temple alternatif": {
+    "type": "lieux",
+    "path": "places/temple_alt.svg"
+  },
+  "village": {
+    "type": "lieux",
+    "path": "places/village.svg"
+  },
+  "cercle large": {
+    "type": "formes",
+    "path": "shapes/circle_large.svg"
+  },
+  "cercle moyen": {
+    "type": "formes",
+    "path": "shapes/circle_medium.svg"
+  },
+  "cercle petit": {
+    "type": "formes",
+    "path": "shapes/circle_small.svg"
+  },
+  "campagne d'information": {
+    "type": "formes",
+    "path": "shapes/information_campaign.svg"
+  },
+  "carré large": {
+    "type": "formes",
+    "path": "shapes/square_large.svg"
+  },
+  "carré moyen": {
+    "type": "formes",
+    "path": "shapes/square_medium.svg"
+  },
+  "carré petit": {
+    "type": "formes",
+    "path": "shapes/square_small.svg"
+  },
+  "étoile large": {
+    "type": "formes",
+    "path": "shapes/star_large.svg"
+  },
+  "étoile moyenne": {
+    "type": "formes",
+    "path": "shapes/star_medium.svg"
+  },
+  "étoile petite": {
+    "type": "formes",
+    "path": "shapes/star_small.svg"
+  },
+  "triangle large": {
+    "type": "formes",
+    "path": "shapes/triangle_large.svg"
+  },
+  "triangle moyen": {
+    "type": "formes",
+    "path": "shapes/triangle_medium.svg"
+  },
+  "triangle petit": {
+    "type": "formes",
+    "path": "shapes/triangle_small.svg"
+  },
+  "accident et urgence": {
+    "type": "spécialités",
+    "path": "specialties/accident_and_emergency.svg"
+  },
+  "admissions": {
+    "type": "spécialités",
+    "path": "specialties/admissions.svg"
+  },
+  "laboratoire de biochimie": {
+    "type": "spécialités",
+    "path": "specialties/biochemistry_laboratory.svg"
+  },
+  "cardiologie": {
+    "type": "spécialités",
+    "path": "specialties/cardiology.svg"
+  },
+  "aumônerie": {
+    "type": "spécialités",
+    "path": "specialties/chaplaincy.svg"
+  },
+  "unité de soins coronariens": {
+    "type": "spécialités",
+    "path": "specialties/coronary_care_unit.svg"
+  },
+  "soins critiques": {
+    "type": "spécialités",
+    "path": "specialties/critical_care.svg"
+  },
+  "salon de sortie": {
+    "type": "spécialités",
+    "path": "specialties/discharge_lounge.svg"
+  },
+  "oreilles, nez et gorge": {
+    "type": "spécialités",
+    "path": "specialties/ears_nose_and_throat.svg"
+  },
+  "endocrinologie": {
+    "type": "spécialités",
+    "path": "specialties/endocrinology.svg"
+  },
+  "département des finances": {
+    "type": "spécialités",
+    "path": "specialties/finance_dept.svg"
+  },
+  "gastro-entérologie": {
+    "type": "spécialités",
+    "path": "specialties/gastroenterology.svg"
+  },
+  "gériatrie": {
+    "type": "spécialités",
+    "path": "specialties/geriatrics.svg"
+  },
+  "salle de sport": {
+    "type": "spécialités",
+    "path": "specialties/gym.svg"
+  },
+  "gynécologie": {
+    "type": "spécialités",
+    "path": "specialties/gynecology.svg"
+  },
+  "hématologie": {
+    "type": "spécialités",
+    "path": "specialties/hematology.svg"
+  },
+  "laboratoire d'hématologie": {
+    "type": "spécialités",
+    "path": "specialties/hematology_laboratory.svg"
+  },
+  "hépatologie": {
+    "type": "spécialités",
+    "path": "specialties/hepatology.svg"
+  },
+  "ressources humaines": {
+    "type": "spécialités",
+    "path": "specialties/human_resoruces.svg"
+  },
+  "unité de soins intensifs": {
+    "type": "spécialités",
+    "path": "specialties/intensive_care_unit.svg"
+  },
+  "dossiers médicaux": {
+    "type": "spécialités",
+    "path": "specialties/medical_records.svg"
+  },
+  "néphrologie": {
+    "type": "spécialités",
+    "path": "specialties/nephrology.svg"
+  },
+  "obstétrique": {
+    "type": "spécialités",
+    "path": "specialties/obstetricsmonia.svg"
+  },
+  "oncologie": {
+    "type": "spécialités",
+    "path": "specialties/oncology.svg"
+  },
+  "ophtalmologie": {
+    "type": "spécialités",
+    "path": "specialties/ophthalmology.svg"
+  },
+  "orthopédie": {
+    "type": "spécialités",
+    "path": "specialties/orthopaedics.svg"
+  },
+  "service des patients externes": {
+    "type": "spécialités",
+    "path": "specialties/outpatient_department.svg"
+  },
+  "pédiatrie": {
+    "type": "spécialités",
+    "path": "specialties/pediatrics.svg"
+  },
+  "pharmacie": {
+    "type": "spécialités",
+    "path": "specialties/pharmacy.svg"
+  },
+  "kinésithérapie": {
+    "type": "spécialités",
+    "path": "specialties/physical_therapy.svg"
+  },
+  "psychologie": {
+    "type": "spécialités",
+    "path": "specialties/psychology.svg"
+  },
+  "radiologie": {
+    "type": "spécialités",
+    "path": "specialties/radiology.svg"
+  },
+  "respirologie": {
+    "type": "spécialités",
+    "path": "specialties/respirology.svg"
+  },
+  "rhumatologie": {
+    "type": "spécialités",
+    "path": "specialties/rheumatology.svg"
+  },
+  "travail social": {
+    "type": "spécialités",
+    "path": "specialties/social_work.svg"
+  },
+  "sonographie": {
+    "type": "spécialités",
+    "path": "specialties/sonography.svg"
+  },
+  "orthophonie": {
+    "type": "spécialités",
+    "path": "specialties/speech_language_therapy.svg"
+  },
+  "urologie": {
+    "type": "spécialités",
+    "path": "specialties/urology.svg"
+  },
+  "2G": {
+    "type": "symboles",
+    "path": "symbols/2g.svg"
+  },
+  "3G": {
+    "type": "symboles",
+    "path": "symbols/3g.svg"
+  },
+  "logo FHIR": {
+    "type": "symboles",
+    "path": "symbols/FHIR_logo.svg"
+  },
+  "alcool": {
+    "type": "symboles",
+    "path": "symbols/alcohol.svg"
+  },
+  "alerte": {
+    "type": "symboles",
+    "path": "symbols/alert.svg"
+  },
+  "cercle d'alerte": {
+    "type": "symboles",
+    "path": "symbols/alert_circle.svg"
+  },
+  "triangle d'alerte": {
+    "type": "symboles",
+    "path": "symbols/alert_triangle.svg"
+  },
+  "poulet": {
+    "type": "symboles",
+    "path": "symbols/animal_chicken.svg"
+  },
+  "vache": {
+    "type": "symboles",
+    "path": "symbols/animal_cow.svg"
+  },
+  "âne": {
+    "type": "symboles",
+    "path": "symbols/animal_donkey.svg"
+  },
+  "araignée": {
+    "type": "symboles",
+    "path": "symbols/animal_spider.svg"
+  },
+  "tique": {
+    "type": "symboles",
+    "path": "symbols/animal_tick.svg"
+  },
+  "point d'assemblage": {
+    "type": "symboles",
+    "path": "symbols/assembly_point.svg"
+  },
+  "ruban de récompense": {
+    "type": "symboles",
+    "path": "symbols/award_ribbon.svg"
+  },
+  "trophée de récompense": {
+    "type": "symboles",
+    "path": "symbols/award_trophy.svg"
+  },
+  "livre": {
+    "type": "symboles",
+    "path": "symbols/book.svg"
+  },
+  "sites de reproduction": {
+    "type": "symboles",
+    "path": "symbols/breeding_sites.svg"
+  },
+  "calendrier de quarantaine": {
+    "type": "symboles",
+    "path": "symbols/calendar-quarantine.svg"
+  },
+  "calendrier": {
+    "type": "symboles",
+    "path": "symbols/calendar.svg"
+  },
+  "cannabis": {
+    "type": "symboles",
+    "path": "symbols/cannabis.svg"
+  },
+  "cardiogramme": {
+    "type": "symboles",
+    "path": "symbols/cardiogram.svg"
+  },
+  "cardiogramme_e": {
+    "type": "symboles",
+    "path": "symbols/cardiogram_e.svg"
+  },
+  "graphique de guérison décroissante": {
+    "type": "symboles",
+    "path": "symbols/chart-cured-decreasing.svg"
+  },
+  "graphique de guérison croissante": {
+    "type": "symboles",
+    "path": "symbols/chart-cured-increasing.svg"
+  },
+  "graphique du taux de mortalité décroissant": {
+    "type": "symboles",
+    "path": "symbols/chart-death-rate-decreasing.svg"
+  },
+  "graphique du taux de mortalité croissant": {
+    "type": "symboles",
+    "path": "symbols/chart-death-rate-increasing.svg"
+  },
+  "graphique du taux de mortalité stable": {
+    "type": "symboles",
+    "path": "symbols/chart-death-rate-stable.svg"
+  },
+  "graphique des infections décroissantes": {
+    "type": "symboles",
+    "path": "symbols/chart-infected-decreasing.svg"
+  },
+  "graphique des infections croissantes": {
+    "type": "symboles",
+    "path": "symbols/chart-infected-increasing.svg"
+  },
+  "graphique des infections stables": {
+    "type": "symboles",
+    "path": "symbols/chart-infected-stable.svg"
+  },
+  "graphique à barres": {
+    "type": "symboles",
+    "path": "symbols/chart_bar.svg"
+  },
+  "graphique à barres empilées": {
+    "type": "symboles",
+    "path": "symbols/chart_bar_stacked.svg"
+  },
+  "graphique linéaire": {
+    "type": "symboles",
+    "path": "symbols/chart_line.svg"
+  },
+  "graphique linéaire empilé": {
+    "type": "symboles",
+    "path": "symbols/chart_line_stacked.svg"
+  },
+  "graphique en secteurs": {
+    "type": "symboles",
+    "path": "symbols/chart_pie.svg"
+  },
+  "choléra": {
+    "type": "symboles",
+    "path": "symbols/cholera.svg"
+  },
+  "clinique_f": {
+    "type": "symboles",
+    "path": "symbols/clinical_f.svg"
+  },
+  "clinique_fe": {
+    "type": "symboles",
+    "path": "symbols/clinical_fe.svg"
+  },
+  "communication": {
+    "type": "symboles",
+    "path": "symbols/communication.svg"
+  },
+  "réunion communautaire": {
+    "type": "symboles",
+    "path": "symbols/community_meeting.svg"
+  },
+  "contacter le support": {
+    "type": "symboles",
+    "path": "symbols/contact_support.svg"
+  },
+  "base de données": {
+    "type": "symboles",
+    "path": "symbols/database.svg"
+  },
+  "décès": {
+    "type": "symboles",
+    "path": "symbols/death.svg"
+  },
+  "décès_alt": {
+    "type": "symboles",
+    "path": "symbols/death_alt.svg"
+  },
+  "décès_alt2": {
+    "type": "symboles",
+    "path": "symbols/death_alt2.svg"
+  },
+  "par défaut": {
+    "type": "symboles",
+    "path": "symbols/default.svg"
+  },
+  "logo DHIS2": {
+    "type": "symboles",
+    "path": "symbols/dhis2_logo.svg"
+  },
+  "diabète": {
+    "type": "symboles",
+    "path": "symbols/diabetes.svg"
+  },
+  "mesure du diabète": {
+    "type": "symboles",
+    "path": "symbols/diabetes_measure.svg"
+  },
+  "décharge": {
+    "type": "symboles",
+    "path": "symbols/discharge.svg"
+  },
+  "éco-soins": {
+    "type": "symboles",
+    "path": "symbols/eco_care.svg"
+  },
+  "électricité": {
+    "type": "symboles",
+    "path": "symbols/electricity.svg"
+  },
+  "entrée": {
+    "type": "symboles",
+    "path": "symbols/entry.svg"
+  },
+  "logo Excel": {
+    "type": "symboles",
+    "path": "symbols/excel_logo.svg"
+  },
+  "exercice": {
+    "type": "symboles",
+    "path": "symbols/exercise.svg"
+  },
+  "empreinte digitale": {
+    "type": "symboles",
+    "path": "symbols/fingerprint.svg"
+  },
+  "fruits": {
+    "type": "symboles",
+    "path": "symbols/fruits.svg"
+  },
+  "localisation géographique": {
+    "type": "symboles",
+    "path": "symbols/geo_location.svg"
+  },
+  "pandémie mondiale": {
+    "type": "symboles",
+    "path": "symbols/global-pandemic.svg"
+  },
+  "globe": {
+    "type": "symboles",
+    "path": "symbols/globe.svg"
+  },
+  "chien guide": {
+    "type": "symboles",
+    "path": "symbols/guide_dog.svg"
+  },
+  "dangereux": {
+    "type": "symboles",
+    "path": "symbols/hazardous.svg"
+  },
+  "santé": {
+    "type": "symboles",
+    "path": "symbols/health.svg"
+  },
+  "santé_alt": {
+    "type": "symboles",
+    "path": "symbols/health_alt.svg"
+  },
+  "sécurité des données de santé": {
+    "type": "symboles",
+    "path": "symbols/health_data_security.svg"
+  },
+  "synchronisation des données de santé": {
+    "type": "symboles",
+    "path": "symbols/health_data_sync.svg"
+  },
+  "alphabétisation en santé": {
+    "type": "symboles",
+    "path": "symbols/health_literacy.svg"
+  },
+  "formulaire du travailleur de la santé": {
+    "type": "symboles",
+    "path": "symbols/health_worker_form.svg"
+  },
+  "cœur": {
+    "type": "symboles",
+    "path": "symbols/heart.svg"
+  },
+  "cardiogramme du cœur": {
+    "type": "symboles",
+    "path": "symbols/heart_cardiogram.svg"
+  },
+  "barres élevées": {
+    "type": "symboles",
+    "path": "symbols/high_bars.svg"
+  },
+  "niveau élevé": {
+    "type": "symboles",
+    "path": "symbols/high_level.svg"
+  },
+  "quarantaine à domicile": {
+    "type": "symboles",
+    "path": "symbols/home-quarantine.svg"
+  },
+  "hospice": {
+    "type": "symboles",
+    "path": "symbols/hospice.svg"
+  },
+  "symbole d'hôpital": {
+    "type": "symboles",
+    "path": "symbols/hospital_symbol.svg"
+  },
+  "papier de certificat": {
+    "type": "symboles",
+    "path": "symbols/i_certificate_paper.svg"
+  },
+  "documents acceptés": {
+    "type": "symboles",
+    "path": "symbols/i_documents_accepted.svg"
+  },
+  "documents refusés": {
+    "type": "symboles",
+    "path": "symbols/i_documents_denied.svg"
+  },
+  "examen à choix multiples": {
+    "type": "symboles",
+    "path": "symbols/i_exam_multiple_choice.svg"
+  },
+  "qualification d'examen": {
+    "type": "symboles",
+    "path": "symbols/i_exam_qualification.svg"
+  },
+  "note d'action": {
+    "type": "symboles",
+    "path": "symbols/i_note_action.svg"
+  },
+  "planifier la date et l'heure de l'école": {
+    "type": "symboles",
+    "path": "symbols/i_schedule_school_date_time.svg"
+  },
+  "imm": {
+    "type": "symboles",
+    "path": "symbols/imm.svg"
+  },
+  "info": {
+    "type": "symboles",
+    "path": "symbols/info.svg"
+  },
+  "résistance aux insecticides": {
+    "type": "symboles",
+    "path": "symbols/insecticide_resistance.svg"
+  },
+  "barres basses": {
+    "type": "symboles",
+    "path": "symbols/low_bars.svg"
+  },
+  "niveau bas": {
+    "type": "symboles",
+    "path": "symbols/low_level.svg"
+  },
+  "loupe": {
+    "type": "symboles",
+    "path": "symbols/magnifying_glass.svg"
+  },
+  "épidémie de paludisme": {
+    "type": "symboles",
+    "path": "symbols/malaria_outbreak.svg"
+  },
+  "conseil médical": {
+    "type": "symboles",
+    "path": "symbols/medical_advice.svg"
+  },
+  "barres moyennes": {
+    "type": "symboles",
+    "path": "symbols/medium_bars.svg"
+  },
+  "niveau moyen": {
+    "type": "symboles",
+    "path": "symbols/medium_level.svg"
+  },
+  "mégaphone": {
+    "type": "symboles",
+    "path": "symbols/megaphone.svg"
+  },
+  "moustique": {
+    "type": "symboles",
+    "path": "symbols/mosquito.svg"
+  },
+  "négatif": {
+    "type": "symboles",
+    "path": "symbols/negative.svg"
+  },
+  "réseau 4G": {
+    "type": "symboles",
+    "path": "symbols/network_4g.svg"
+  },
+  "réseau 5G": {
+    "type": "symboles",
+    "path": "symbols/network_5g.svg"
+  },
+  "non": {
+    "type": "symboles",
+    "path": "symbols/no.svg"
+  },
+  "nutrition": {
+    "type": "symboles",
+    "path": "symbols/nutrition.svg"
+  },
+  "logo OpenMRS": {
+    "type": "symboles",
+    "path": "symbols/openMRS_logo.svg"
+  },
+  "épidémie": {
+    "type": "symboles",
+    "path": "symbols/outbreak.svg"
+  },
+  "soins palliatifs": {
+    "type": "symboles",
+    "path": "symbols/palliative-care.svg"
+  },
+  "route pavée": {
+    "type": "symboles",
+    "path": "symbols/paved_road.svg"
+  },
+  "route pavée_alt": {
+    "type": "symboles",
+    "path": "symbols/paved_road_alt.svg"
+  },
+  "paix": {
+    "type": "symboles",
+    "path": "symbols/peace.svg"
+  },
+  "pharmacie": {
+    "type": "symboles",
+    "path": "symbols/pharmacy.svg"
+  },
+  "pharmacie_alt": {
+    "type": "symboles",
+    "path": "symbols/pharmacy_alt.svg"
+  },
+  "poison": {
+    "type": "symboles",
+    "path": "symbols/poison.svg"
+  },
+  "polygone": {
+    "type": "symboles",
+    "path": "symbols/polygon.svg"
+  },
+  "positif": {
+    "type": "symboles",
+    "path": "symbols/positive.svg"
+  },
+  "document de prescription": {
+    "type": "symboles",
+    "path": "symbols/prescription_document.svg"
+  },
+  "prestataire_fst": {
+    "type": "symboles",
+    "path": "symbols/provider_fst.svg"
+  },
+  "question": {
+    "type": "symboles",
+    "path": "symbols/question.svg"
+  },
+  "cercle de question": {
+    "type": "symboles",
+    "path": "symbols/question_circle.svg"
+  },
+  "triangle de question": {
+    "type": "symboles",
+    "path": "symbols/question_triangle.svg"
+  },
+  "référence": {
+    "type": "symboles",
+    "path": "symbols/referral.svg"
+  },
+  "registre des livres": {
+    "type": "symboles",
+    "path": "symbols/register_book.svg"
+  },
+  "eau courante_alt": {
+    "type": "symboles",
+    "path": "symbols/running_water_alt.svg"
+  },
+  "ordonnance": {
+    "type": "symboles",
+    "path": "symbols/rx.svg"
+  },
+  "santé sexuelle et reproductive": {
+    "type": "symboles",
+    "path": "symbols/sexual_reproductive_health.svg"
+  },
+  "logo simple": {
+    "type": "symboles",
+    "path": "symbols/simple_logo.svg"
+  },
+  "fumer": {
+    "type": "symboles",
+    "path": "symbols/smoking.svg"
+  },
+  "arrêt du tabac": {
+    "type": "symboles",
+    "path": "symbols/smoking_cessation.svg"
+  },
+  "distanciation sociale": {
+    "type": "symboles",
+    "path": "symbols/social_distancing.svg"
+  },
+  "distanciation sociale_alt": {
+    "type": "symboles",
+    "path": "symbols/social_distancing_alt.svg"
+  },
+  "arrêt": {
+    "type": "symboles",
+    "path": "symbols/stop.svg"
+  },
+  "décompte": {
+    "type": "symboles",
+    "path": "symbols/tally.svg"
+  },
+  "transgenre": {
+    "type": "symboles",
+    "path": "symbols/transgender.svg"
+  },
+  "dossier_ui": {
+    "type": "symboles",
+    "path": "symbols/ui_folder.svg"
+  },
+  "dossier_famille_ui": {
+    "type": "symboles",
+    "path": "symbols/ui_folder_family.svg"
+  },
+  "menu_ui": {
+    "type": "symboles",
+    "path": "symbols/ui_menu.svg"
+  },
+  "grille de menu_ui": {
+    "type": "symboles",
+    "path": "symbols/ui_menu_grid.svg"
+  },
+  "préférences_ui": {
+    "type": "symboles",
+    "path": "symbols/ui_preferences.svg"
+  },
+  "sécurité_ui": {
+    "type": "symboles",
+    "path": "symbols/ui_secure.svg"
+  },
+  "paramètres_ui": {
+    "type": "symboles",
+    "path": "symbols/ui_settings.svg"
+  },
+  "profil utilisateur_ui": {
+    "type": "symboles",
+    "path": "symbols/ui_user_profile.svg"
+  },
+  "zoom_ui": {
+    "type": "symboles",
+    "path": "symbols/ui_zoom.svg"
+  },
+  "zoom_in_ui": {
+    "type": "symboles",
+    "path": "symbols/ui_zoom_in.svg"
+  },
+  "zoom_out_ui": {
+    "type": "symboles",
+    "path": "symbols/ui_zoom_out.svg"
+  },
+  "route non pavée": {
+    "type": "symboles",
+    "path": "symbols/un_paved_road.svg"
+  },
+  "mutation du virus": {
+    "type": "symboles",
+    "path": "symbols/virus-mutation.svg"
+  },
+  "recherche sur les virus": {
+    "type": "symboles",
+    "path": "symbols/virus-research.svg"
+  },
+  "bouclier antiviral": {
+    "type": "symboles",
+    "path": "symbols/virus-shield.svg"
+  },
+  "virus": {
+    "type": "symboles",
+    "path": "symbols/virus.svg"
+  },
+  "virus_alt": {
+    "type": "symboles",
+    "path": "symbols/virus_alt.svg"
+  },
+  "patient du virus": {
+    "type": "symboles",
+    "path": "symbols/virus_patient.svg"
+  },
+  "recherche sur les virus_alt": {
+    "type": "symboles",
+    "path": "symbols/virus_research_alt.svg"
+  },
+  "traitement de l'eau": {
+    "type": "symboles",
+    "path": "symbols/water_treatment.svg"
+  },
+  "oui": {
+    "type": "symboles",
+    "path": "symbols/yes.svg"
+  },
+  "point d'exclamation": {
+    "type": "typographie",
+    "path": "typography/!.svg"
+  },
+  "zéro": {
+    "type": "typographie",
+    "path": "typography/0.svg"
+  },
+  "un": {
+    "type": "typographie",
+    "path": "typography/1.svg"
+  },
+  "deux": {
+    "type": "typographie",
+    "path": "typography/2.svg"
+  },
+  "trois": {
+    "type": "typographie",
+    "path": "typography/3.svg"
+  },
+  "quatre": {
+    "type": "typographie",
+    "path": "typography/4.svg"
+  },
+  "cinq": {
+    "type": "typographie",
+    "path": "typography/5.svg"
+  },
+  "six": {
+    "type": "typographie",
+    "path": "typography/6.svg"
+  },
+  "sept": {
+    "type": "typographie",
+    "path": "typography/7.svg"
+  },
+  "huit": {
+    "type": "typographie",
+    "path": "typography/8.svg"
+  },
+  "neuf": {
+    "type": "typographie",
+    "path": "typography/9.svg"
+  },
+  "A": {
+    "type": "typographie",
+    "path": "typography/A.svg"
+  },
+  "B": {
+    "type": "typographie",
+    "path": "typography/B.svg"
+  },
+  "C": {
+    "type": "typographie",
+    "path": "typography/C.svg"
+  },
+  "D": {
+    "type": "typographie",
+    "path": "typography/D.svg"
+  },
+  "E": {
+    "type": "typographie",
+    "path": "typography/E.svg"
+  },
+  "F": {
+    "type": "typographie",
+    "path": "typography/F.svg"
+  },
+  "G": {
+    "type": "typographie",
+    "path": "typography/G.svg"
+  },
+  "H": {
+    "type": "typographie",
+    "path": "typography/H.svg"
+  },
+  "I": {
+    "type": "typographie",
+    "path": "typography/I.svg"
+  },
+  "J": {
+    "type": "typographie",
+    "path": "typography/J.svg"
+  },
+  "K": {
+    "type": "typographie",
+    "path": "typography/K.svg"
+  },
+  "L": {
+    "type": "typographie",
+    "path": "typography/L.svg"
+  },
+  "M": {
+    "type": "typographie",
+    "path": "typography/M.svg"
+  },
+  "N": {
+    "type": "typographie",
+    "path": "typography/N.svg"
+  },
+  "O": {
+    "type": "typographie",
+    "path": "typography/O.svg"
+  },
+  "P": {
+    "type": "typographie",
+    "path": "typography/P.svg"
+  },
+  "Q": {
+    "type": "typographie",
+    "path": "typography/Q.svg"
+  },
+  "R": {
+    "type": "typographie",
+    "path": "typography/R.svg"
+  },
+  "S": {
+    "type": "typographie",
+    "path": "typography/S.svg"
+  },
+  "T": {
+    "type": "typographie",
+    "path": "typography/T.svg"
+  },
+  "U": {
+    "type": "typographie",
+    "path": "typography/U.svg"
+  },
+  "V": {
+    "type": "typographie",
+    "path": "typography/V.svg"
+  },
+  "W": {
+    "type": "typographie",
+    "path": "typography/W.svg"
+  },
+  "X": {
+    "type": "typographie",
+    "path": "typography/X.svg"
+  },
+  "Y": {
+    "type": "typographie",
+    "path": "typography/Y.svg"
+  },
+  "Z": {
+    "type": "typographie",
+    "path": "typography/Z.svg"
+  },
+  "dollar": {
+    "type": "typographie",
+    "path": "typography/dollar.svg"
+  },
+  "ghana": {
+    "type": "typographie",
+    "path": "typography/ghana.svg"
+  },
+  "point d'interrogation": {
+    "type": "typographie",
+    "path": "typography/question_mark.svg"
+  },
+  "roupie": {
+    "type": "typographie",
+    "path": "typography/rupee.svg"
+  },
+  "yen": {
+    "type": "typographie",
+    "path": "typography/yen.svg"
+  },
+  "4x4": {
+    "type": "véhicules",
+    "path": "vehicles/4x4.svg"
+  },
+  "ambulance": {
+    "type": "véhicules",
+    "path": "vehicles/ambulance.svg"
+  },
+  "vélo": {
+    "type": "véhicules",
+    "path": "vehicles/bike.svg"
+  },
+  "drone": {
+    "type": "véhicules",
+    "path": "vehicles/drone.svg"
+  },
+  "hélicoptère": {
+    "type": "véhicules",
+    "path": "vehicles/helicopter.svg"
+  },
+  "machinerie": {
+    "type": "véhicules",
+    "path": "vehicles/machinery.svg"
+  },
+  "guerre": {
+    "type": "véhicules",
+    "path": "vehicles/war.svg"
+  },
+  "clinique mobile": {
+    "type": "véhicules",
+    "path": "vehicles/mobile_clinic.svg"
+  },
+  "petit avion": {
+    "type": "véhicules",
+    "path": "vehicles/small_plane.svg"
+  },
+  "moto Vespa": {
+    "type": "véhicules",
+    "path": "vehicles/vespa_motorcycle.svg"
+  },
+  "moto basique": {
+    "type": "véhicules",
+    "path": "vehicles/basic_motorcycle.svg"
+  },
+  "moto tout-terrain": {
+    "type": "véhicules",
+    "path": "vehicles/cross_country_motorcycle.svg"
   }
 }

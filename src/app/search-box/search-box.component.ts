@@ -9,9 +9,9 @@ import searchClosestPicture from "../../assets/health-icons/filled/metadata.json
 })
 export class SearchBoxComponent implements OnInit {
 
-  private pictureKeywords = Object.keys(searchClosestPicture).map(this.asciiFold)
+  private pictureKeywords = Object.keys(searchClosestPicture)
   public selectedPicturesPath: string[]
-  public userInputValue:string = "oreille\nadn\nbras\n"
+  public userInputValue:string = "oreille\nADN\nVIH\nfoetus\n"
 
   constructor() {
   }
