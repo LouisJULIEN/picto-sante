@@ -1,0 +1,9 @@
+.carousel {
+}
+
+.carousel-wrapper {
+  margin-left: auto;
+  overflow: auto;
+  display: flex;
+  flex-direction: row-reverse;
+}

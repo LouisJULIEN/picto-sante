@@ -11,11 +11,7 @@ export class SearchBoxComponent implements OnInit {
 
   private pictureKeywords = Object.keys(searchClosestPicture).map(this.asciiFold)
   public selectedPicturesPath: string[]
-  public userInputValue:string = " ojzeo fjoze" +""
-    // "ezfzefzef\n" +
-    // "\n" +
-    // "\n" +
-    // "zefzefzef"
+  public userInputValue:string = " oreille\nadn\nbras\n"
 
   constructor() {
   }

@@ -1,3 +1,7 @@
-<div *ngFor="let anImagePath of this.imagesPaths">
-  <app-single-picture [imagePath]="anImagePath"></app-single-picture>
+<div class="carousel">
+<div class="carousel-wrapper">
+  <span *ngFor="let anImagePath of this.imagesPaths.reverse()">
+    <app-single-picture [imagePath]="anImagePath"></app-single-picture>
+  </span>
+</div>
 </div>

@@ -1,138 +1,138 @@
 {
   "bras": {
     "type": "corps",
-    "path": "body/arm.png"
+    "path": "body/arm.svg"
   },
   "bacterie": {
     "type": "corps",
-    "path": "body/bacteria.png"
+    "path": "body/bacteria.svg"
   },
   "vessie": {
     "type": "corps",
-    "path": "body/bladder.png"
+    "path": "body/bladder.svg"
   },
   "cellules sanguines": {
     "type": "corps",
-    "path": "body/blood cells.png"
+    "path": "body/blood_cells.svg"
   },
   "goutte de sang": {
     "type": "corps",
-    "path": "body/blood drop.png"
+    "path": "body/blood_drop.svg"
   },
   "vaisseau sanguin": {
     "type": "corps",
-    "path": "body/blood vessel.png"
+    "path": "body/blood_vessel.svg"
   },
   "corps": {
     "type": "corps",
-    "path": "body/body.png"
+    "path": "body/body.svg"
   },
   "adn": {
     "type": "corps",
-    "path": "body/dna.png"
+    "path": "body/dna.svg"
   },
   "oreille": {
     "type": "corps",
-    "path": "body/ear.png"
+    "path": "body/ear.svg"
   },
   "enzyme": {
     "type": "corps",
-    "path": "body/enzyme.png"
+    "path": "body/enzyme.svg"
   },
   "œil": {
     "type": "corps",
-    "path": "body/eye.png"
+    "path": "body/eye.svg"
   },
   "système reproducteur féminin": {
     "type": "corps",
-    "path": "body/female reproductive system.png"
+    "path": "body/female_reproductive_system.svg"
   },
   "pied": {
     "type": "corps",
-    "path": "body/foot.png"
+    "path": "body/foot.svg"
   },
   "vésicule biliaire": {
     "type": "corps",
-    "path": "body/gallbladder.png"
+    "path": "body/gallbladder.svg"
   },
   "cœur": {
     "type": "corps",
-    "path": "body/heart.png"
+    "path": "body/heart.svg"
   },
   "intestin": {
     "type": "corps",
-    "path": "body/intestine.png"
+    "path": "body/intestine.svg"
   },
   "articulations": {
     "type": "corps",
-    "path": "body/joints.png"
+    "path": "body/joints.svg"
   },
   "reins": {
     "type": "corps",
-    "path": "body/kidneys.png"
+    "path": "body/kidneys.svg"
   },
   "jambe": {
     "type": "corps",
-    "path": "body/leg.png"
+    "path": "body/leg.svg"
   },
   "foie": {
     "type": "corps",
-    "path": "body/liver.png"
+    "path": "body/liver.svg"
   },
   "alanine aminotransférase": {
    "type": "corps",
-    "path": "body/liver alt.png"
+    "path": "body/liver_alt.svg"
   },
   "ALT": {
    "type": "corps",
-    "path": "body/liver alt.png"
+    "path": "body/liver_alt.svg"
   },
   "poumons": {
     "type": "corps",
-    "path": "body/lungs.png"
+    "path": "body/lungs.svg"
   },
   "ganglion lymphatique": {
     "type": "corps",
-    "path": "body/lymph node.png"
+    "path": "body/lymph_node.svg"
   },
   "bouche": {
     "type": "corps",
-    "path": "body/mouth.png"
+    "path": "body/mouth.svg"
   },
   "nerf": {
     "type": "corps",
-    "path": "body/nerve.png"
+    "path": "body/nerve.svg"
   },
   "nez": {
     "type": "corps",
-    "path": "body/nose.png"
+    "path": "body/nose.svg"
   },
   "pancréas": {
     "type": "corps",
-    "path": "body/pancreas.png"
+    "path": "body/pancreas.svg"
   },
   "squelette": {
     "type": "corps",
-    "path": "body/skeleton.png"
+    "path": "body/skeleton.svg"
   },
   "crâne": {
     "type": "corps",
-    "path": "body/skull.png"
+    "path": "body/skull.svg"
   },
   "colonne vertébrale": {
     "type": "corps",
-    "path": "body/spine.png"
+    "path": "body/spine.svg"
   },
   "rate": {
     "type": "corps",
-    "path": "body/spleen.png"
+    "path": "body/spleen.svg"
   },
   "estomac": {
     "type": "corps",
-    "path": "body/stomach.png"
+    "path": "body/stomach.svg"
   },
   "dent": {
     "type": "corps",
-    "path": "body/tooth.png"
+    "path": "body/tooth.svg"
   }
 }
