@@ -11,7 +11,7 @@ export class SearchBoxComponent implements OnInit {
 
   private pictureKeywords = Object.keys(searchClosestPicture).map(this.asciiFold)
   public selectedPicturesPath: string[]
-  public userInputValue:string = " oreille\nadn\nbras\n"
+  public userInputValue:string = "oreille\nadn\nbras\n"
 
   constructor() {
   }
@@ -34,8 +34,8 @@ export class SearchBoxComponent implements OnInit {
         .replace(/$\n+/, '') // remove starting carriage return
     )
 
-
-    return sanitizedText.split('\n').map((x: string) => this.searchClosestPicturePath(x))
+    // reverse to make display easier
+    return sanitizedText.split('\n').map((x: string) => this.searchClosestPicturePath(x)).reverse()
   }
 
   private searchClosestPicturePath(textToSearch: string): string {
